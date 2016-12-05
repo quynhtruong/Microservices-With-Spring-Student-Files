@@ -1,5 +1,4 @@
 ---
-greeting-sentence: I'm in Ha Noi now. The weather is very nice!
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/quicksort?useSSL=false
